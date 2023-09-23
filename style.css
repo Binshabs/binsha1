@@ -37,3 +37,18 @@
     font-size: 1.25rem;
     line-height: 2.75rem;
 }
+.eight h1{
+    text-align: center;
+    
+}
+.imm img{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: .5s;
+}
+.imm img{
+    width: 70%;
+    margin: 15px 0px;
+}
