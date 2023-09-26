@@ -29,38 +29,35 @@
 }
 .six h1{
     text-align: center;
-    font-size: 2.35rem;
+    font-size: 2.15rem;
     line-height: 1.75rem;
+
+
 }
-.six h1{
+.six h2{
     text-align: center;
     font-size: 1.25rem;
-    line-height: 2.75rem;
+    line-height: 1.75rem;
+
 }
+
+
 .eight h1{
     text-align: center;
+
+    
     
 }
 .imm img{
-    width: 15rem;
-    height: 15rem;
+    width: 10rem;
+    height: 10rem;
     margin: auto;
+    padding: auto;
     background-color: white;
     transition: .5s;
+    
 }
 .imm img{
     width: 70%;
     margin: 15px 0px;
-}
-.nine h1{
-    
-    text-align: center;
-}
-.imm img{
-    width: 5rem;
-    height: 5rem;
-    margin: auto;
-    border: radius;
-    background-color: white;
-    transition: .5s;
 }
