@@ -35,13 +35,14 @@
 }
 .six{
     font-size:1.125rem;
-    line-height: 1.75rem;  
+    line-height: 1.75rem; 
+    color: rgb(107 114 128);
 }
 .tittle{
     padding-left: 350px;
 }
 .row .ten h6{
-    font-size:1.3rem;
+    font-size:1.1rem;
     font-family: Inter,Helvetica Neue, Helvetica,Arial, sans-serif;
     color: rgb(117,117,117);
     text-align: center;
@@ -49,7 +50,9 @@
 }
 .ten h4{
     padding-top: 50px;
+    color:rgb(117,117,117);
 }
+
 .eight h1{
     color: rgb(31,41,55);
     font-size:1.8rem;
@@ -68,11 +71,11 @@
     width: 800px;
 }
 .ank{
-    margin-top: 10px;
+    margin-top: 50px;
 }
 .ank .btn{
     background-color: white;
-    padding: 10px 10px;
+    padding: 15px 22px;
     color: egb(32,32,32);
 }
 .ruby h1{
@@ -104,7 +107,7 @@
 .imn img{
     width: 3rem;
     height: 3rem;
-    border-radius: 99px;
+    border-radius: 9999px;
 }
 .rob h1{
     font-size: 1.125rem;
@@ -122,8 +125,9 @@
 }
 
 .therow{
-    padding-bottom: 100px;
-    margin-left: 100px;
+    padding-bottom: 80px;
+    margin-left: 1000px;
+    padding-right: 40px;
 }
 .pf{
     padding-left: 40px;
@@ -148,16 +152,16 @@
     color: rgb(107 114 128);
 }
 .lmi{
-    padding-right: 930px;
+    padding-right: 80px;
 }
 .lmi .btn{
-    padding: 10px 10px;
+    padding: 10px 15px;
 }
 .lmo{
-    padding-left: 930px;
+       padding-left: 80px;
 }
 .lmo .btn{
-    padding: 10px 20px;
+    padding: 10px 15px;
 }
 .thelast{
     padding-bottom: 80px;
@@ -167,8 +171,13 @@
     margin-bottom: 100px;
 }
 .final h1{
-    font-size: 1.2rem;
+    font-size: .99rem;
 }
+.final p{
+    font-size: .90rem;
+    color: rgb(75 85 99);
+}
+
 .twit{
     display: inline;
     width: 3.5rem;
@@ -191,6 +200,10 @@
     padding-left: 1.5rem;
 }
 .wm{
+    font-size: .75rem;
+    color: rgb(75 85 99);
+    margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
@@ -253,4 +266,5 @@
     text-align: center;
 
 }
+
 
