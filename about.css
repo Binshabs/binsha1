@@ -1,0 +1,117 @@
+.abcd{
+    padding-left: 15%;
+}
+.ord{
+    margin-left: 400px;
+}
+.title{
+    padding-left: 350px;
+}
+/*.tp{
+    text-align: center;
+    font-size: 2rem;
+}
+.tp h2{
+    font-size: 1rem;
+    color: rgb(82, 76, 76);
+    margin: 10px 10px;
+
+}
+.tp h3{
+    font-size: 1.5rem;
+    padding-top: 70px;
+    color: rgb(79, 76, 76);
+}
+.arz{
+    
+    padding-top: 30px;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+}
+.anz h1{
+    font-size: 1rem;
+}*/
+
+
+.one{
+    background-color: rgb(249 250 251);
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.two{
+    width: 65%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 1.75;
+}
+.three{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    line-height: 1.75;
+}
+.three h1{
+    font-size: 1.7rem;
+    line-height: 2rem;
+    padding-bottom: 20px;
+}
+.four img{
+    width: 100px;
+}
+.four{
+    width: 60%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    text-align: start;
+}
+.four h1{
+    font-size: 1.2rem;
+}
+.four h4{
+    font-size: 1.5rem;
+}
+.five{
+    background-color: rgb(216 214 214);
+    padding-bottom: 60px;
+}
+.six{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.seven{
+    padding-right: 20px;
+    margin-right: 15px;
+    padding-top: 20px;
+    width: 400px;
+    height: 120px;
+    margin-bottom: 60px;
+}
+.seven h1{
+    font-size: 1.8rem;
+}
+.seven h5{
+    font-size: 1.2rem;
+}
+.eight{
+    width: 100%;
+    margin: auto;
+}
+.nine{
+    width: 70%;
+    margin-right: 35px;
+    margin-left: 40px;
+
+}
+.eight h1{
+    font-size: 2rem;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 50px;
+}
+.eight h5{
+    font-size: 1.5rem;
+    padding-top: 20px;
+    color: rgb(146 145 145);
+}
