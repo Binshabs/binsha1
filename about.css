@@ -66,19 +66,30 @@
     text-align: start;
 }
 .four h1{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 .four h4{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .five{
     background-color: rgb(216 214 214);
     padding-bottom: 60px;
+    padding-top: 20px;
+    
+
+}
+.five h1{
+    font-size: 1.5rem;
+    color: rgb(97, 93, 93);
+    margin-bottom: 40px;
 }
 .six{
     width: 100%;
     text-align: center;
     margin: auto;
+    margin-left: 900px;
+    padding-left: 200px;
+    
 }
 .seven{
     padding-right: 20px;
@@ -87,12 +98,42 @@
     width: 400px;
     height: 120px;
     margin-bottom: 60px;
+    
+    
 }
-.seven h1{
-    font-size: 1.8rem;
+.seven1{
+    margin-left: 200px;
+    margin-bottom: 100px;
+    font-size: 1rem;
+    color: rgb(97, 93, 93);
+    width: 50vw;
+    height: 10vh
+    ;
+}
+.seven2{
+    margin-left: 200px;
+    margin-bottom: 100px;
+    
+    color: rgb(74, 71, 71);
+    ;
+}
+.seven3{
+    margin-left:230px;
+    margin-bottom: 100px;
+    font-size: 1rem;
+    color:rgb(74, 71, 71);
+    ;
+}
+.seven h2{
+    font-size: 1rem;
+    margin-left: 60px;
+    color: rgb(74, 71, 71);
+    
 }
 .seven h5{
     font-size: 1.2rem;
+    color: darkgrey;
+    
 }
 .eight{
     width: 100%;
@@ -102,16 +143,92 @@
     width: 70%;
     margin-right: 35px;
     margin-left: 40px;
-
+    
 }
 .eight h1{
     font-size: 2rem;
     padding-top: 35px;
     padding-bottom: 35px;
     margin-bottom: 50px;
+    color: rgb(74, 71, 71);
 }
 .eight h5{
-    font-size: 1.5rem;
-    padding-top: 20px;
+    font-size: 1.2rem;
+    padding: 10px 10px;
+    margin: 10px 10px;
     color: rgb(146 145 145);
+}
+.ten h1{
+    font-size: 1.5rem;
+    margin-left: 700px;
+    margin-bottom: 40px;
+    color:  rgb(83, 77, 77);
+    margin-top: 100px;
+
+
+}
+.ten img{
+    padding-right: 480px;
+}
+.ten h4{
+    font-size: 1rem;
+    margin-left: 600px;
+    padding: 5px 5px;
+    color:  rgb(146 145 145);
+    
+}
+.ten h2{
+    width: 10vw;
+    margin-left: 700px;
+}
+.aa h1{
+    font-size: 1.2rem;
+    text-align: center;
+    color:   rgb(146 145 145);
+}
+.aa h2{
+    margin-left: 500px;
+}
+.aa h3{
+    margin-left: 60px;
+}
+.final{
+    margin: 0px 400px;
+    margin-bottom: 80px;
+}
+.final h1{
+    font-size: .99rem;
+}
+.final p{
+    font-size: .90rem;
+    color: rgb(75 85 99);
+}
+
+.twit{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.fb{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+    
+}
+.gth{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.disc{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.wm{
+    font-size: .75rem;
+    color: rgb(75 85 99);
+    margin-top: 40px;
+    margin-bottom: 40px;
+
 }
