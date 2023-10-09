@@ -1,0 +1,42 @@
+.ord{
+    margin-left: 400px;
+}
+.abcd{
+    padding-left: 15%;
+}
+.one h1{
+    font-size: 2rem;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.two h5{
+    font-size: 1.2rem;
+    
+    color: rgb(103, 101, 101);
+}
+.two h2{
+    margin-bottom: 60px ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+}
+.three h1{
+    padding-top: 50px;
+    font-size: 1.5rem;
+    
+}
+.four h2{
+    font-size: 1.4rem;
+    padding-right: 800px;
+    padding-top: 50px;
+}
+.four h3{
+    font-size: 1rem;
+    padding-right: 600px;
+}
+.aaa h3{
+    margin-left: 100px;
+    padding-left: 200px;
+}
