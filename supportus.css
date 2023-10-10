@@ -1,211 +1,50 @@
-.ord{
-    margin-left: 400px;
-}
 .abcd{
     padding-left: 15%;
 }
+.ord{
+    margin-left: 400px;
+}
 .one h1{
-    font-size: 2rem;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
-.two h5{
-    font-size: 1.2rem;
-    
-    color: rgb(103, 101, 101);
+.two h4{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(25, 25, 27);
+    line-height: 1.5rem;
 }
-.two h2{
-    margin-bottom: 60px ;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-top: 30px;
-}
-.three h1{
-    padding-top: 50px;
-    font-size: 1.6rem;
-    
+.btn{
+    margin-top: 40px;
+    margin-bottom: 30px;
 }
 
-.three h2{
+
+/* .cc{
+    background-color:smoke rgb(175, 169, 169);
+}  */
+.two h1{
     text-align: center;
-    font-size: 1.3rem;
-    padding-right: 530px;
-    padding-top: 50px;
-    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+    
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.three h3{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
+.kk h1{
+    font-size: 1.5rem;
     margin-left: 500px;
+    margin-top: 20px;
 
 }
-.three h4{
-    font-size: 1.3rem;
-    padding-right: 700px;
-    padding-left: 40px;
-    padding-bottom: 20px;
-}
-.three h5{
-    padding-left: 30px;
-    font-size: 1.1rem;
-    font-weight: 369;
-    padding-right: 100px;
-}
-.four h1{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-}
-.four h2{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
+.kk h4{
+    font-size: 1rem;
     margin-left: 500px;
-
-
-
+    margin-top: 10px;
 }
-.four h3{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-    padding-left: 190px;
-
-}
-.four h4{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 500;
-    padding-right: 600px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.four h5{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-    padding-left: 100px;
-
-}
-.four h6{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-
-}
-.five h1{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-
-
-} 
-.five h2{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.five h3{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-
-
-} 
-.five h4{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.five h5{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-
-
-} 
-.five h6{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.six h1{
-    padding-left: 88px;
-}
-.six h2{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.six h3{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-    padding-left: 400px;
-
-
-} 
-.six h4{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.six h5{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-    padding-left: 120px;
-
-
-} 
-.six h6{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-.seven h1{
-    font-size: 1.3rem;
-    padding-right: 510px;
-    padding-bottom: 0px;
-    padding-left: 100px;
-}
-.seven h2{
-    font-size: 1.1rem;
-    font-weight: 368;
-    padding-left: 533;
-    padding-right: 500px;
-    padding-bottom: 35px;
-    margin-left: 500px;
-}
-
 .final{
     margin: 0px 400px;
     margin-bottom: 80px;
