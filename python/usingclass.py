@@ -22,28 +22,23 @@ from tkinter import *
 root=Tk()
 frame=Frame(root)
 frame.pack()
-l1=Label(root,text="enter first no:")
-e1=Entry(root)
-l2=Label(root,text="enter student no:")
-e2=Entry(root)
-l3=Label(root,text="result")
-e3=Entry(root)
-
-bt1=Button(root,text="add")
-button=Button(root,text="exit",command=root.quit)
-
-l1.grid(row=0,column=0)
-e1.grid(row=0,column=1)
-l2.grid(row=1,column=0)
-e2.grid(row=1,column=1)
-l3.grid(row=2,column=0)
-e3.grid(row=2,column=1)
-
-bt1.grid(row=3,column=0)
-button.grid(row=3,column=1)
-
-
-
-
+l1=Label(frame,text="enter first no:")
+l1.pack()
+e1=Entry(frame)
+e1.pack()
+l2=Label(frame,text="enter second no:")
+l2.pack()
+e2=Entry(frame)
+e2.pack()
+frr=Frame(root)
+frr.pack()
+bt1=Button(frr,text="add")
+bt1.grid(row=0,column=0)
+bt2=Button(frr,text="exit",command=exit)
+bt2.grid(row=0,column=1)
+fm=Frame(root)
+fm.pack()
+l3=Label(fm,text="Result")
+l3.pack()
 
 root.mainloop()
